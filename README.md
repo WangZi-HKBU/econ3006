@@ -95,8 +95,7 @@ I may revise the course outline during the semester.
   - Protect and promote privated-owned enterprises (POE)
   - Attact foreign-owned enterprises (FOE)
 
-
-
-
-
-
+ ### Week 12: Latecomer or the Future: Economic Growth of ASEAN Countries
+ - Summary of the East Asian Model
+ - Why did ASEAN countries lag behind in economic growth?
+ - Can ASEAN countries grow like East Asia?
