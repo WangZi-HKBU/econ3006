@@ -79,7 +79,21 @@ I may revise the course outline during the semester.
 - Their benefits, costs, and challenges
 - Their impacts on Japanese and Korean economies
 
-### Week 9: 
+### Week 9: Hong Kong and Singapore: A Tale of Two Cities
+- Two supercities sharing many similarities
+- Extremes in economic growth models
+- Entrepreneurs in Hong Kong and Singapore
+
+### Week 10: From Command Economy to State Capitalism
+- Complex images and unique features of the Chinese economy
+- China's command economy and its heritage
+- Dual-track reform and state capitalism
+
+### Week 11: China's Growth Miracle: Local Governments and POEs&FOEs
+- Economic decentralization
+- Local governments
+  - Protect and promote privated-owned enterprises (POE)
+  - Attact foreign-owned enterprises (FOE)
 
 
 
