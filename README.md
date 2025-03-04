@@ -67,7 +67,19 @@ I may revise the course outline during the semester.
 - Government and market: three models
 - Asian financial crisis and the challenges faced by the East Asian Model
 
-### Week 5: Midterm Test
+### Week 6: Midterm Test
+
+### Week 7: Made in Japan
+- Toyota (1970s): Jump start
+- Toshiba (1980s): US-Japan semiconductor competition
+- Uniqlo (2000s): Data-driven economy
+
+### Week 8: Keiretsu and Chaebol
+- What are Keiretsu and Chaebol and how did they start?
+- Their benefits, costs, and challenges
+- Their impacts on Japanese and Korean economies
+
+### Week 9: 
 
 
 
