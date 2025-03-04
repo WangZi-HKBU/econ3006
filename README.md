@@ -20,6 +20,13 @@ This course explores the recent and ongoing economic journeys of Asian-Pacific e
 
 Perfect for students interested in business, international relations, or policyâ€”or anyone curious about how Asia became an economic powerhouse!
 
+## Logistics
+Class schedule: Fridays 09:30-12:20  
+Location: WLB613  
+Email: wangzi@hkbu.edu.hk  
+Office hours: By appointment, please email
+
+
 ## Assessments
 - Participation (20%)
 - Midterm test (25%)
@@ -32,13 +39,38 @@ Perfect for students interested in business, international relations, or policyâ
 - Barbara Minto, *The Pyramid Principle: Logic in Writing and Thinking*
 
 ## Course Outline
-I may revise the course outline and reading list during the semester.  
+I may revise the course outline during the semester.  
 
 ### Week 1: Asian Growth Miracle
 - Introduction of this course
 - What is economic growth and why is it important? 
 - Extraordinary economic growth in East Asia
 - What if an economy stops growing?
+
+### Week 2: Growth Accounting
+- Driving forces of economic growth
+- Savings and investments in Asia-Pacific economies
+- Why do Asian people save so much?
+
+### Week 3: Demographic Changes
+- Demographic changes and economic growth in Asia-Pacific Areas
+- Doing business in response to demographic changes: Experiences of 7-Eleven
+- Policy Responses for Low Birth Rates in the Asia-Pacific region
+
+### Week 4: Globalization
+- Why is internal trade important for economic growth?
+- Export promotion and global value chains in Asia-Pacific economies
+- US-China trade wars and de-globalization
+
+### Week 5: Government and Economic Growth
+- Market failures
+- Government and market: three models
+- Asian financial crisis and the challenges faced by the East Asian Model
+
+### Week 5: Midterm Test
+
+
+
 
 
 
