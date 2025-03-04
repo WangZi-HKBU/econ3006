@@ -21,10 +21,10 @@ This course explores the recent and ongoing economic journeys of Asian-Pacific e
 Perfect for students interested in business, international relations, or policy—or anyone curious about how Asia became an economic powerhouse!
 
 ## Logistics
-Class schedule: Fridays 09:30-12:20  
-Location: WLB613  
-Email: wangzi@hkbu.edu.hk  
-Office hours: By appointment, please email
+**Class schedule**: Fridays 09:30-12:20  
+**Location**: WLB613  
+**Email**: wangzi@hkbu.edu.hk  
+**Office hours**: By appointment, please email
 
 
 ## Assessments
