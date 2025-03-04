@@ -99,3 +99,5 @@ I may revise the course outline during the semester.
  - Summary of the East Asian Model
  - Why did ASEAN countries lag behind in economic growth?
  - Can ASEAN countries grow like East Asia?
+
+### Week 13: Final in-class assignment
